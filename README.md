@@ -1,1 +1,1 @@
-# Detection-of-Parkinson-s-Disease-Using-Machine-Learningon
+# Detection-of-Parkinson-s-Disease-Using-Machine-Learning
