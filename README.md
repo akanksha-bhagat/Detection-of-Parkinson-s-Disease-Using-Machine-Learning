@@ -47,12 +47,5 @@ SVM performed the best and was selected as the final model for deployment.
 - Confusion Matrix
 - ROC Curve and AUC Score
 
-## 🛠️ Future Improvements
 
-- Integration with real-time voice input
-- Deep learning-based classification (CNN/RNN)
-- Cloud-based deployment (e.g., using FastAPI + GCP/AWS)
 
-## 🚀 How to Run
-
-1. Clone the repo  
